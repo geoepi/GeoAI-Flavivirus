@@ -6,4 +6,4 @@ This repo is for sharing code associated with the GeoAI and spatiotemporal epide
 
 [SpatialAnalysis.ipynb](SpatialAnalysis.ipynb) : A Jupyter Notebook look at techniques such as choropleth maps, scatter plots, and spatial autocorrelation analysis to identify patterns, clusters, and spatial relationships among variables for WNV incidence.
 
-[WNV_Detections.ipynb](WNV Detections.ipynb) : A Jupyter Notebook for preprocessing WNV features and MLP Neural Network WNV detection.
+[WNV_Detections.ipynb](WNVDetections.ipynb) : A Jupyter Notebook for preprocessing WNV features and MLP Neural Network WNV detection.
