@@ -1,0 +1,44 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+#secrets
+secrets.yml
+
+# Virtual Environments
+VenvUSDA/
+
+# Dependency Logs
+pip-log.txt
+conda-meta/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Output Files from Jupyter or Python
+profile_default/
+*.nbconvert/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+logs/
+
+# Ignore Hidden System Files
+Thumbs.db
+
+# Ignore Data Files
+data/
+data/*.csv
+data/*.shp
+data/*.prj
+data/*.shx
+data/*.dbf
+data/*.shx
+
+
+# Ignore Specific Files
+secrets.json
+keys.yaml
+credentials.json
