@@ -4,7 +4,7 @@ This repo is for sharing code associated with the GeoAI and spatiotemporal epide
 # Repo Contents
 [GLSM_analysis.ipynb](GLSTM_analysis.ipynb) : A Jupyter Notebook that serves as a tutorial for forecasting binary predictions of Equine WNV incidence per county/week in the southern climate region of the United States using a graph convolutional neural network.
 
-[GLSTM_models.py](GLSMT_models.py): A python file containing the models for training and hyperparameter tuning.
+[GLSTM_models.py](GLSTM_models.py): A python file containing the models for training and hyperparameter tuning.
 
 [GLSTM_training.py](GLSTM_training.py): A python file containing training and evaluation functions.
 
