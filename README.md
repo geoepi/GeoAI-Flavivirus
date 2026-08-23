@@ -1,6 +1,8 @@
 # GeoAI-Flavivirus
 
-Code and supporting materials for **Leveraging recurrent graph neural networks to improve geospatial estimation of equine West Nile Virus outbreaks**.
+Code and supporting materials for **Leveraging recurrent graph neural networks to improve geospatial estimation of equine West Nile Virus outbreaks**.  
+
+Data archived at the Open Science Framework https://osf.io/79rne/overview  
 
 This project evaluates how geographic structure, temporal dependence, environmental conditions, vector and host ecology, and landscape characteristics can be integrated to characterize reported equine WNV occurrence across the U.S. Southern Climate Region.
 
